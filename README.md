@@ -1,3 +1,6 @@
+ > [!CAUTION]
+ > Falta melhorar para postar no linkedin!
+
 <div align="center">
   
 # ✧ Projeto Convert Money ✧
