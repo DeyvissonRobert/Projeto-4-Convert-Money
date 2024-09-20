@@ -3,7 +3,7 @@
 
 <div align="center">
   
-# ✧ Projeto Convert Money ✧
+# ✧ Convert Money ✧
 <br> <br>
 
 ## ✧ Este é um projeto no qual convertemos um valor em Real Brasileiro para dolar, euro, libra ou bitcoin. Mas o valor da moeda não está atualizada do dia. ✧
